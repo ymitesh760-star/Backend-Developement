@@ -1,0 +1,10 @@
+{
+  "cities" :{
+    "delhi":"30",
+    "chandigarh":"35",
+    "mumbai":"40",
+    "kolkata":"20",
+    "bhopal":"50"
+
+  }
+}
